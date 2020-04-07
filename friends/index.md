@@ -7,11 +7,9 @@ date: 2018-08-06 12:44:02
 <script type="text/javascript">
 // 以下为样例内容，按照格式可以随意修改
 var myFriends = [
-    ["http://crystalrays.lofter.com/", "https://avaimg.nosdn.127.net/img/WUx6WXltMXVsUFp2UlY3V3pBdWxaYXVXaXA3UEl6dHBHbEZMVGZORzQvcFFHa3NJREYzbS9RPT0.jpg", "CrystalRays", "一位程序大佬"], 
-    ["https://www.bokutake.com/", "https://cn.gravatar.com/avatar/e57379eaaadeba99e175d5173eb6ba0d", "Октябрьская революция", "Welt von Bokutake"], 
-    ["https://www.fczbl.vip/", "https://cn.gravatar.com/avatar/5e6892e999ca8c85a358d21164167f38", "犬's Blog", "一位掌握了微软的独特打开方式的大佬"], 
-    ["https://diygod.me/", "https://diygod.me/images/DIYgod.jpg", "DIYgod", "是裙里最大的绒布球"],
-    ["https://www.fghrsh.net/", "https://cn.gravatar.com/avatar/0c5d77513a08b8c3e38336859b53b027", "FGHRSH", "一只可爱的阿狸"]
+    ["#", "https://candinya.com/images/avatar.png", "猫猫", "喵喵~"], 
+    ["#", "https://candinya.com/images/avatar.png", "猫猫猫", "喵喵喵~"], 
+    ["#", "https://candinya.com/images/avatar.png", "猫猫猫猫", "喵喵喵喵~"]
 ];
 
 // 以下为核心功能内容，修改前请确保理解您的行为内容与可能造成的结果
