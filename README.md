@@ -5,7 +5,7 @@
  请注意，source文件夹的内容会新建一个页面，即全部导入之后会多生成两个页面；
  scaffolds文件夹的内容是Hexo文章模板，请记得备份原始的格式，防止后续可能出现的覆盖性冲突。
 
-## source\friends 友链页面
+## source/friends 友链页面
 
 可以放置朋友们的链接，并且会随机排列顺序。
 
@@ -25,16 +25,16 @@ myFriends二维数组内存储了每一位朋友的信息，且没有数量限�
 
 \]
 
-## source\about 关于页面
+## source/about 关于页面
 
 可以放置自我介绍，点击侧边栏的头像可以自动传送过来哦w
 
 没有什么特定的格式需求，尽情享受吧~
 
-## scaffolds\page.md 新页面模板
+## scaffolds/page.md 新页面模板
 
 加入了“edit”（最后编辑时间）参数
 
-## scaffolds\post.md 新文章
+## scaffolds/post.md 新文章
 
 加入了“edit”（最后编辑时间）、“top”（置顶）、“pic”（文章特供图片）三个主题相关的参数
